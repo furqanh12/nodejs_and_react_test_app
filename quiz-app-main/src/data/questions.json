@@ -1,0 +1,277 @@
+[
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Problem-solving vs Creativity: Which do you prefer?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I enjoy solving complex problems and analyzing them",
+      "I prefer creative and artistic challenges"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Structure vs Flexibility: Which work style do you prefer?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I prefer clear rules and structured work processes",
+      "I enjoy flexibility and the ability to organize my own work"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Teamwork vs Independent work: What gives you more energy?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I get energy from teamwork and collaboration",
+      "I prefer to work independently and at my own pace"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Details vs Big picture: Which aspect of work do you prefer?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I enjoy working with details and tasks that require precision",
+      "I prefer to focus on the big picture and strategic issues"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Stability vs Change: What do you value in work?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I value stability and predictability in work",
+      "I enjoy changes and new challenges"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Working with people vs Working with technology: What is your preference?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I prefer to work with people and communicate directly",
+      "I enjoy working with technology and technical tasks"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Practicality vs Theory: Which type of work do you prefer?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I prefer practical, tangible results",
+      "I enjoy theoretical and conceptual tasks"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Fast pace vs In-depth focus: How do you prefer to work?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I enjoy a fast pace and multitasking",
+      "I prefer to delve deeply into one topic for a longer time"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Leadership vs Specialization: Which role do you prefer?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I want to lead projects or people",
+      "I prefer to be an expert in a specific field"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Routine tasks vs Varying tasks: Which type of tasks do you enjoy more?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I enjoy regular, routine tasks",
+      "I prefer varied and changing work tasks"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Competition vs Cooperation: What motivates you?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I'm motivated by a competitive environment and achieving goals",
+      "I prefer cooperation and shared goals"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Analytical thinking vs Intuitive decision-making: How do you approach decision-making?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I rely on data and analysis when making decisions",
+      "I trust my intuition and experiences"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Public speaking vs Working behind the scenes: What do you enjoy more?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I enjoy public speaking and being in the spotlight",
+      "I prefer to work behind the scenes, without direct attention"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Physical activity vs Mental work: What type of work do you prefer?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I prefer physically active work",
+      "I enjoy primarily mental and intellectual work"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Customer service vs Product development: Which area of work appeals to you?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I like to interact with customers and solve their problems",
+      "I prefer to work on developing products or services"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Short-term projects vs Long-term projects: What do you enjoy more?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I enjoy short-term projects with quick results",
+      "I prefer long-term projects that require in-depth focus"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Innovation vs Traditions: Which do you value more in work?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I want to create new solutions and innovative ideas",
+      "I value traditional methods and continuity"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Social impact vs Business success: What motivates you?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I want to positively impact society through my work",
+      "I'm motivated by business success and financial growth"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "International environment vs Local environment: What do you enjoy more?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I enjoy working in an international environment",
+      "I prefer to focus on the local community and market"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Structured learning vs Self-learning: Which learning style do you prefer?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I prefer structured training and courses",
+      "I enjoy independent learning and self-improvement"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Responsibility vs Following guidelines: Which work style do you prefer?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I prefer to take on significant responsibility and make decisions independently",
+      "I prefer to follow clear guidelines and work within defined frameworks"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Results-oriented vs Process-oriented: What aspect of work do you enjoy more?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I focus primarily on the end result and achieving goals",
+      "I enjoy the process itself and pay attention to the quality of each stage"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Technological innovation vs Human-centered approach: Which do you prefer?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I want to work with the latest technologies and innovative solutions",
+      "I prefer to focus on people and their needs"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Formal vs Informal work environment: Which work environment do you enjoy more?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I prefer a formal and professional work environment",
+      "I enjoy a more relaxed and informal work environment"
+    ]
+  },
+  {
+    "category": "Career Questionnaire",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Personal growth vs Organizational growth: What do you prioritize more?",
+    "correct_answer": "Neither / It depends on the situation",
+    "incorrect_answers": [
+      "I focus on my personal development and career",
+      "I gladly contribute to the overall development of the organization"
+    ]
+  }
+]
