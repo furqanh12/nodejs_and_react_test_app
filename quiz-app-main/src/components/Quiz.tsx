@@ -20,8 +20,6 @@ export default function Quiz(props: IProps) {
   const location = useLocation(); // Access location
   const { type, level } = location.state || { type: "", level: "" }; // Get type and level from state
 
-  console.log("type: " + type);
-
   // destructuring of props
   const {
     question: { question, category, difficulty, choices },

@@ -1,0 +1,52 @@
+.menu-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #FFFFFF; /* Main background color */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .logo img {
+    height: 40px; /* Adjust the height of the logo */
+  }
+  
+  .menu-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .menu-item {
+    margin-left: 20px; /* Space between menu items */
+  }
+  
+  .menu-link {
+    text-decoration: none;
+    color: white; /* Color of menu text */
+    font-weight: bold; /* Make the text bold */
+    transition: color 0.3s ease; /* Smooth transition effect */
+  }
+  
+  .menu-link:hover {
+    color: #d3d3d3; /* Color on hover */
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .menu-links {
+      flex-direction: column;
+      position: absolute;
+      top: 60px; /* Adjust based on the height of the menu bar */
+      left: 0;
+      right: 0;
+      background-color: #2448d5; /* Background color for the dropdown */
+      display: none; /* Hide the menu by default */
+    }
+  
+    .menu-bar:hover .menu-links {
+      display: flex; /* Show on hover */
+    }
+  }
+  

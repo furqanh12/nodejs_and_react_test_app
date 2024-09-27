@@ -8,7 +8,6 @@ export default function App() {
   return (
     <I18nextProvider i18n={i18n}>
       <main className="">
-        <LanguageDropdown /> {/* Include the LanguageDropdown here */}
         <AppRouter />
       </main>
     </I18nextProvider>
